@@ -1,2 +1,2 @@
-# git-short
-### git notes shorts for all groups
+## git-short
+# git notes shorts for all groups

@@ -34,7 +34,7 @@ app.get('/', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log('server is up..., started an port:', PORT);
+  console.log('server is up..., started on port:', PORT);
 });
 
 /* go to the browser, enter in the line URI Localhost:port (Localhost:3000 in the case)

@@ -1,5 +1,5 @@
 // todo Start project at steps
-//* npm init --y
+//* npm init -y
 //* npx create-gitignore node
 //* npx eslint --init         add settings
 

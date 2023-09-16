@@ -1,1 +1,3 @@
-# git notes shorts for all groups
+# Cheat sheet 
+# raising the server
+# Express, Nodemon, Morgan
